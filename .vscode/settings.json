@@ -1,0 +1,10 @@
+{
+  "python.analysis.extraPaths": [
+    "./pipecat/src",
+    "./api"
+  ],
+  "python.autoComplete.extraPaths": [
+    "./pipecat/src",
+    "./api"
+  ]
+}
